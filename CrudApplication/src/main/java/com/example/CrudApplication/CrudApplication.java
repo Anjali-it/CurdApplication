@@ -11,9 +11,13 @@ public class CrudApplication {
 		System.out.println("success");
                int i=10;
                int i= 20;
+<<<<<<< HEAD
 
           String s = "anjali";
             int j=30;
+=======
+	 String s1= "anji";
+>>>>>>> 61405f055678c0149f1cf8048e93c990b3a1f0e2
 	}
 
 }
