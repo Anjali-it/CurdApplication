@@ -11,6 +11,9 @@ public class CrudApplication {
 		System.out.println("success");
                int i=10;
                int i= 20;
+
+          String s = "anjali";
+            int j=30;
 	}
 
 }
